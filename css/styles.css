@@ -495,7 +495,7 @@ footer .logo {
 .list .phone:hover{
     color:#2196F3;
 }
-.footer {max-width: 1600px;
+.footer {min-width: 1600px;
     padding-top: 60px;
 padding-bottom: 60px;
 margin-left: auto;
